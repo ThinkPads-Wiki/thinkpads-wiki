@@ -98,9 +98,4 @@ This page gives you an overview of the ThinkPad T430.
 >L3 cache:              3072K
 >NUMA node0 CPU(s):     0-3
 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+[Displays](
