@@ -1,4 +1,4 @@
-<!-- Welcome to ThinkPads.Wiki -->
+<!-- TITLE: Welcome to ThinkPads.Wiki -->
 <!-- SUBTITLE: Modern and up-to-date ThinkPad Wiki -->
 
 
