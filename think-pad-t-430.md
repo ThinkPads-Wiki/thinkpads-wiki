@@ -1,14 +1,7 @@
 <!-- TITLE: ThinkPad T430 -->
 <!-- SUBTITLE: A quick summary of ThinkPad T430 -->
 
-.test {
-
-color: #dc322f;
-
-}
-
-
-<div class="test">This page gives you an overview of the ThinkPad T430.</div>
+This page gives you an overview of the ThinkPad T430.
 
 ## Machine Type
 
