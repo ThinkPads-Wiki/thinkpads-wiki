@@ -73,3 +73,27 @@ This page gives you an overview of the ThinkPad T430.
 
 * UTwo USB 3.0
 * One Always on USB 2.0
+
+### lscpu
+
+>Architecture:          x86_64
+>CPU op-mode(s):        32-bit, 64-bit
+>Byte Order:            Little Endian
+>CPU(s):                4
+>On-line CPU(s) list:   0-3
+>Thread(s) per core:    2
+>Core(s) per socket:    2
+>Socket(s):             1
+>NUMA node(s):          1
+>Vendor ID:             GenuineIntel
+>CPU family:            6
+>Model:                 58
+>Stepping:              9
+>CPU MHz:               1200.000
+>BogoMIPS:              5188.23
+>Virtualization:        VT-x
+>L1d cache:             32K
+>L1i cache:             32K
+>L2 cache:              256K
+>L3 cache:              3072K
+>NUMA node0 CPU(s):     0-3
