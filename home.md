@@ -1,3 +1,10 @@
+<head>
+<style>
+body {
+    background-color: #d24dff;
+}
+</style>
+<head>
 <center>
 	<font size="10">Welcome to ThinkPads.wiki</font>
 	<br>
