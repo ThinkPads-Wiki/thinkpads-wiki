@@ -3,14 +3,14 @@
 
 This page gives you an overview of the ThinkPad T430.
 
-## Machine Type
+# Machine Type
 
 * 2344
 * 2350
 
-## Specs
+# Specs
 
-### CPU
+## CPU
 
 * 2nd Generation Intel Core i3-2328M (2.20 GHz, 3MB L3, 1333MHz FSB)
 * 2nd Generation Intel Core i3-2370M (2.40 GHz, 3MB L3, 1333MHz FSB)
@@ -21,60 +21,60 @@ This page gives you an overview of the ThinkPad T430.
 * 3rd Generation Intel Core i5-3360M (3.50 GHz, 3MB L3)
 * 3rd Generation Intel Core i7-3520M (3.50 GHz, 4MB L3, 1333MHz FSB)
 
-### dGPU/iGPU
+## dGPU/iGPU
 
 * Intel HD Graphics 4000
 * NVIDIA NVS 5400M Graphics with Optimus Technology
 
-### Display
+## Display
 
 * 14.0" HD (1366 x 768) (200 NITS)
 * 14.0" HD+ (1600 x 900) (250 NITS)
 
-### Memory
+## Memory
 
 * Two DDR3 RAM slots
 * Up to 16GB of 2133MHz DDR3L
 
-### Storage
+## Storage
 
 * One 2.5" SATA III
 * One mSATA II (Also supports WWAN)
 
-### WLAN
+## WLAN
 
 * ThinkPad BGN (RealTek - Stockton) 1x1 BGN
 * Intel Centrino Wireless-N 1000 (Condor Peak) 1x2 BGN
 * Intel Centrino Advanced-N 6250 (Taylor Peak) 2x2 AGN
 * Intel Centrino Ultimate-N 6300 (Puma Peak) 3x3 AGN
 
-### LAN
+## LAN
 
 * Intel® 82577LM Gigabit (Hanksville) Digital Office
 * Intel® 82577LC Gigabit (Hanksville) Fundamental
 * Intel® 82579LM Gigabit (Lewisville)
 
-### WWAN
+## WWAN
 
 * Gobi 3000 Sierra Wireless EV-DO/HSPA WWAN Minicard
 * Ericsson HSPA+ WWAN Minicard (H5321gw) Not available in the US
 
-### Battery
+## Battery
 
 * ThinkPad Battery 70+ (6 Cell Lithium-Ion, 57 Watts/Hr)
 * ThinkPad Battery 70++ (9 Cell Lithium-Ion, 94 Watts/Hr)
 * ThinkPad Battery 27++ Slice (9 Cell Lithium-Ion, 11.1 V, 8.4 Amp/Hr)
 
-### Optical Drive
+## Optical Drive
 
 * Serial UltraBay Enhanced DVD Multi III
 
-### Ports
+## Ports
 
 * Two USB 3.0
 * One Always on USB 2.0
 
-### lscpu
+## lscpu
 
 >Architecture:          x86_64
 >CPU op-mode(s):        32-bit, 64-bit
