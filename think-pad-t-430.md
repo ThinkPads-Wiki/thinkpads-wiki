@@ -48,6 +48,16 @@ This page gives you an overview of the ThinkPad T430.
 * Intel Centrino Advanced-N 6250 (Taylor Peak) 2x2 AGN
 * Intel Centrino Ultimate-N 6300 (Puma Peak) 3x3 AGN
 
+### LAN
+
+* Intel® 82577LM Gigabit (Hanksville) Digital Office
+* Intel® 82577LC Gigabit (Hanksville) Fundamental
+* Intel® 82579LM Gigabit (Lewisville)
+
+### WWAN
+
+* Gobi 3000 Sierra Wireless EV-DO/HSPA WWAN Minicard
+* Ericsson HSPA+ WWAN Minicard (H5321gw) Not available in the US
 
 
 
