@@ -1,14 +1,11 @@
 <!-- TITLE: ThinkPad T430 -->
 <!-- SUBTITLE: A quick summary of ThinkPad T430 -->
+# Specs
 
-This page gives you an overview of the ThinkPad T430.
-
-# Machine Type
+## Machine Type
 
 * 2344
 * 2350
-
-# Specs
 
 ## CPU
 
