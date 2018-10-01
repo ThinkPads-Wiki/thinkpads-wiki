@@ -1,4 +1,3 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
-
-# Header
+<center>
+# Welcome to thinkpads.wiki
+</center>
