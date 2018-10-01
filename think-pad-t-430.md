@@ -31,6 +31,17 @@ This page gives you an overview of the ThinkPad T430.
 * 14.0" HD (1366 x 768) (200 NITS)
 * 14.0" HD+ (1600 x 900) (250 NITS)
 
+### Memory
+
+* Two DDR3 RAM slots
+* Up to 16GB of 2133MHz DDR3L
+
+### Storage
+
+* One 2.5" SATA III
+* One mSATA II
+
+
 
 
 
