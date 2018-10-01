@@ -27,6 +27,11 @@ This page gives you an overview of the ThinkPad T430.
 * Intel HD Graphics 4000
 * NVIDIA NVS 5400M Graphics with Optimus Technology
 
+### Display
+
+* 14.0" HD (1366 x 768) (200 NITS)
+* 14.0" HD+ (1600 x 900) (250 NITS)
+
 
 
 
