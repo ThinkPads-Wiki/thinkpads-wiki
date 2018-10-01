@@ -41,6 +41,13 @@ This page gives you an overview of the ThinkPad T430.
 * One 2.5" SATA III
 * One mSATA II
 
+### WLAN
+
+* ThinkPad BGN (RealTek - Stockton) 1x1 BGN
+* Intel Centrino Wireless-N 1000 (Condor Peak) 1x2 BGN
+* Intel Centrino Advanced-N 6250 (Taylor Peak) 2x2 AGN
+* Intel Centrino Ultimate-N 6300 (Puma Peak) 3x3 AGN
+
 
 
 
