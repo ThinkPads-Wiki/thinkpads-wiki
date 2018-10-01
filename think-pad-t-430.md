@@ -71,7 +71,7 @@ This page gives you an overview of the ThinkPad T430.
 
 ### Ports
 
-* UTwo USB 3.0
+* Two USB 3.0
 * One Always on USB 2.0
 
 ### lscpu
