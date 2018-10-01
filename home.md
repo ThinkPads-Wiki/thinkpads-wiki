@@ -1,3 +1,3 @@
 <center>
-<h1>Welcome to thinkpads.wiki</h1>
+<font size="4">Welcome to thinkpads.wiki<font>
 </center>
