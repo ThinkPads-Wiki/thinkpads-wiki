@@ -98,4 +98,4 @@ This page gives you an overview of the ThinkPad T430.
 >L3 cache:              3072K
 >NUMA node0 CPU(s):     0-3
 
-[Displays](
+[Displays](http://thinkpads.wiki/think-pad-t-430/displays)
