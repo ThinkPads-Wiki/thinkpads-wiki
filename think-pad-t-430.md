@@ -2,6 +2,12 @@
 <!-- SUBTITLE: A quick summary of ThinkPad T430 -->
 
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/81o4I0ckQZL._SX679_.jpg "ThinkPad T430")
+
+
+
+-----
+
+
 # Specs
 
 ## Machine Type
