@@ -39,7 +39,7 @@ This page gives you an overview of the ThinkPad T430.
 ### Storage
 
 * One 2.5" SATA III
-* One mSATA II
+* One mSATA II (Also supports WWAN)
 
 ### WLAN
 
@@ -59,7 +59,17 @@ This page gives you an overview of the ThinkPad T430.
 * Gobi 3000 Sierra Wireless EV-DO/HSPA WWAN Minicard
 * Ericsson HSPA+ WWAN Minicard (H5321gw) Not available in the US
 
+### Battery
 
+* ThinkPad Battery 70+ (6 Cell Lithium-Ion, 57 Watts/Hr)
+* ThinkPad Battery 70++ (9 Cell Lithium-Ion, 94 Watts/Hr)
+* ThinkPad Battery 27++ Slice (9 Cell Lithium-Ion, 11.1 V, 8.4 Amp/Hr)
 
+### Optical Drive
 
+* Serial UltraBay Enhanced DVD Multi III
 
+### Ports
+
+* UTwo USB 3.0
+* One Always on USB 2.0
