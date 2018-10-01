@@ -1,7 +1,7 @@
 <!-- TITLE: Welcome to ThinkPads.Wiki -->
 <!-- SUBTITLE: Modern and up-to-date ThinkPad Wiki -->
 
-### ThinkPads.Wiki is a repository of information on the general subject of ThinkPads.
+## ThinkPads.Wiki is a repository of information on the general subject of ThinkPads.
 
 ### Submission Rules
 >1. No bull shit: No oppionions in the wiki please.
