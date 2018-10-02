@@ -45,24 +45,37 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 
 ### T series
 > T2x series
+
 > T3x series
+
 > T4x series
+
 > T6x series
 
 ### X series
-X1 / X1 Carbon series
-X12x series
-X2x series
-X3x series
-X4x Series
-X6x Series
+> X1 / X1 Carbon series
+
+> X12x series
+
+> X2x series
+
+> X3x series
+
+> X4x Series
+
+> X6x Series
    
 ### E or Edge Series
 > Edge 13", 14" and 15" Series
+
 > Edge E220s
+
 > Edge E4xx Series
+
 > Edge E5xx Series
+
 > Edge Twist
+
 
 
 
