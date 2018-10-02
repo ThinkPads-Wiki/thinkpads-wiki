@@ -11,44 +11,59 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 
 ## By Series
 **Note: temporary; needs formatting/editing**
-1 Current Series
 
-    1.1 ThinkPad R series
-    1.2 ThinkPad T series
-        1.2.1 ThinkPad T2x series
-        1.2.2 ThinkPad T3x series
-        1.2.3 ThinkPad T4x series
-        1.2.4 ThinkPad T6x series
-    1.3 ThinkPad X series
-        1.3.1 ThinkPad X1 / X1 Carbon series
-        1.3.2 ThinkPad X12x series
-        1.3.3 ThinkPad X2x series
-        1.3.4 ThinkPad X3x series
-        1.3.5 ThinkPad X4x Series
-        1.3.6 ThinkPad X6x Series
-    1.4 ThinkPad E or Edge Series
-        1.4.1 ThinkPad Edge 13", 14" and 15" Series
-        1.4.2 ThinkPad Edge E220s
-        1.4.3 ThinkPad Edge E4xx Series
-        1.4.4 ThinkPad Edge E5xx Series
-        1.4.5 ThinkPad Edge Twist
 
-2 Withdrawn Series
+### 200 series
 
-    2.1 ThinkPad 200 series
-    2.2 ThinkPad 300 series
-    2.3 ThinkPad 500 series
-    2.4 ThinkPad 600 series
-    2.5 ThinkPad 700 series
-    2.6 ThinkPad 800 series
-    2.7 ThinkPad Transnote
-    2.8 ThinkPad A series
-    2.9 ThinkPad G series
-    2.10 ThinkPad i series
-    2.11 ThinkPad S series
-    2.12 ThinkPad Z series
-        2.12.1 ThinkPad Z60x Series
-        2.12.2 ThinkPad Z61x Series
+### 300 series
+
+### 500 series
+
+### 600 series
+
+### 700 series
+
+### 800 series
+
+### Transnote
+
+### A series
+
+### G series
+
+### i series
+
+### S series
+
+### Z series
+
+> ThinkPad Z60x Series
+
+> Z61x Series
+
+###  R series
+
+### T series
+> T2x series
+> T3x series
+> T4x series
+> T6x series
+
+### X series
+X1 / X1 Carbon series
+X12x series
+X2x series
+X3x series
+X4x Series
+X6x Series
+   
+### E or Edge Series
+> Edge 13", 14" and 15" Series
+> Edge E220s
+> Edge E4xx Series
+> Edge E5xx Series
+> Edge Twist
+
 
 
 
