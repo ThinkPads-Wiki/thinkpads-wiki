@@ -304,7 +304,7 @@ non blandit tortor
 >  sollicitudin
 non blandit tortor  
 
-# About ThinkPads.wiki
+# About ThinkPads.Wiki
 > Our goal is to *document*, *update*, *discover*, and *preserve* useful, **non-copyrighted**, and contemporary information on any and all IBM or Lenovo ThinkPads.  
 
 > We aim to share, and tastefully curate many types of relevant & accurate data for these machines; which includes, but is not limited to:  
