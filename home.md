@@ -10,7 +10,39 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvinar eleifend urna placerat suscipit. Vestibulum eu bibendum mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In elementum velit et libero pellentesque, ac ultrices eros finibus. Morbi facilisis risus blandit mauris sollicitudin, non scelerisque eros consequat. Nulla dapibus tellus magna, tempor porta nisi vestibulum id. Aliquam massa quam, sagittis ut sagittis rhoncus, tincidunt at libero. Curabitur sed lorem in orci pretium mattis. Pellentesque id lorem nec massa posuere interdum a ut neque. Suspendisse dignissim facilisis interdum. Fusce pretium enim quis tellus porta blandit. Quisque placerat nisl in enim rutrum, sit amet aliquam eros dignissim. Sed egestas porta magna, non blandit tortor congue eu. Vivamus rutrum, ipsum varius eleifend cursus, nulla neque iaculis nunc, at venenatis tellus tortor sed libero.  
 
 ## By Series
-Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvinar eleifend urna placerat suscipit. Vestibulum eu bibendum mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In elementum velit et libero pellentesque, ac ultrices eros finibus. Morbi facilisis risus blandit mauris sollicitudin, non scelerisque eros consequat. Nulla dapibus tellus magna, tempor porta nisi vestibulum id. Aliquam massa quam, sagittis ut sagittis rhoncus, tincidunt at libero. Curabitur sed lorem in orci pretium mattis. Pellentesque id lorem nec massa posuere interdum a ut neque. Suspendisse dignissim facilisis interdum. Fusce pretium enim quis tellus porta blandit. Quisque placerat nisl in enim rutrum, sit amet aliquam eros dignissim. Sed egestas porta magna, non blandit tortor congue eu. Vivamus rutrum, ipsum varius eleifend cursus, nulla neque iaculis nunc, at venenatis tellus tortor sed libero.  
+`Current Series
+
+    ThinkPad A or AMD: Mainstream Laptops for Enterprise, featuring AMD processors
+    ThinkPad E or Edge: Stylish Business Laptops
+    ThinkPad L: Green Laptops for Everyday Use
+    ThinkPad P: Mobile Workstations
+    ThinkPad T: High End Laptops for Business
+    ThinkPad X: Thin and Light Laptops
+    ThinkPad Yoga: Tablet PCs
+
+Withdrawn Series
+
+    ThinkPad 13: Mobility and Productivity
+    ThinkPad A: IBM Branded All in One Notebooks, heavy, large, three spindle machines, all drives internal, one or two swappable drive bays.
+    ThinkPad G: Desktop replacement machines built on desktop processors, large and heavy with limited battery runtime.
+    ThinkPad R: Traditionally the budget laptop line.
+    ThinkPad S: Ultrabooks for Business
+    ThinkPad SL: Lower-end notebook designed for small business owners on a budget looking for both multimedia entertainment and business functionality.
+    ThinkPad W: Mobile Workstations
+    ThinkPad Z: Offers widescreen for the ultimate multimedia experience
+    Lenovo 3000: Not a ThinkPad, but Lenovo's "house brand".
+    ThinkPad 130: Japanese version of the i1300
+    ThinkPad 2xx: Classic 10"-sub-notebook models.
+    ThinkPad 3xx: Classic mid-range models.
+    ThinkPad 5xx: Classic ultraportable models.
+    ThinkPad 6xx: Classic Slimline models.
+    ThinkPad 7xx: Classic high-end models.
+    ThinkPad 8xx: Classic PowerPC models.
+    ThinkPad i series: Classic budget models manufactured by Acer under license from IBM.
+    ThinkPad TransNote: Classic model.
+    PC110: Classic Palm-Top model.
+    ThinkPad Twist: Convertable Ultrabook
+    ThinkPad Helix: Detachable Business Ultrabook`
 
 ## By Manufacturer
 Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvinar eleifend urna placerat suscipit.    
