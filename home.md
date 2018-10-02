@@ -11,7 +11,7 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 
 ## By Series
 **Note: temporary; needs formatting/editing**
-Current Series
+1 Current Series
 
     1.1 ThinkPad R series
     1.2 ThinkPad T series
