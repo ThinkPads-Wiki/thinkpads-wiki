@@ -10,39 +10,46 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvinar eleifend urna placerat suscipit. Vestibulum eu bibendum mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In elementum velit et libero pellentesque, ac ultrices eros finibus. Morbi facilisis risus blandit mauris sollicitudin, non scelerisque eros consequat. Nulla dapibus tellus magna, tempor porta nisi vestibulum id. Aliquam massa quam, sagittis ut sagittis rhoncus, tincidunt at libero. Curabitur sed lorem in orci pretium mattis. Pellentesque id lorem nec massa posuere interdum a ut neque. Suspendisse dignissim facilisis interdum. Fusce pretium enim quis tellus porta blandit. Quisque placerat nisl in enim rutrum, sit amet aliquam eros dignissim. Sed egestas porta magna, non blandit tortor congue eu. Vivamus rutrum, ipsum varius eleifend cursus, nulla neque iaculis nunc, at venenatis tellus tortor sed libero.  
 
 ## By Series
-**Note: temporary; needs formatting/editing**`Current Series
+**Note: temporary; needs formatting/editing**1 Current Series
 
-    ThinkPad A or AMD: Mainstream Laptops for Enterprise, featuring AMD processors
-    ThinkPad E or Edge: Stylish Business Laptops
-    ThinkPad L: Green Laptops for Everyday Use
-    ThinkPad P: Mobile Workstations
-    ThinkPad T: High End Laptops for Business
-    ThinkPad X: Thin and Light Laptops
-    ThinkPad Yoga: Tablet PCs
+    1.1 ThinkPad R series
+    1.2 ThinkPad T series
+        1.2.1 ThinkPad T2x series
+        1.2.2 ThinkPad T3x series
+        1.2.3 ThinkPad T4x series
+        1.2.4 ThinkPad T6x series
+    1.3 ThinkPad X series
+        1.3.1 ThinkPad X1 / X1 Carbon series
+        1.3.2 ThinkPad X12x series
+        1.3.3 ThinkPad X2x series
+        1.3.4 ThinkPad X3x series
+        1.3.5 ThinkPad X4x Series
+        1.3.6 ThinkPad X6x Series
+    1.4 ThinkPad E or Edge Series
+        1.4.1 ThinkPad Edge 13", 14" and 15" Series
+        1.4.2 ThinkPad Edge E220s
+        1.4.3 ThinkPad Edge E4xx Series
+        1.4.4 ThinkPad Edge E5xx Series
+        1.4.5 ThinkPad Edge Twist
 
-Withdrawn Series
+2 Withdrawn Series
 
-    ThinkPad 13: Mobility and Productivity
-    ThinkPad A: IBM Branded All in One Notebooks, heavy, large, three spindle machines, all drives internal, one or two swappable drive bays.
-    ThinkPad G: Desktop replacement machines built on desktop processors, large and heavy with limited battery runtime.
-    ThinkPad R: Traditionally the budget laptop line.
-    ThinkPad S: Ultrabooks for Business
-    ThinkPad SL: Lower-end notebook designed for small business owners on a budget looking for both multimedia entertainment and business functionality.
-    ThinkPad W: Mobile Workstations
-    ThinkPad Z: Offers widescreen for the ultimate multimedia experience
-    Lenovo 3000: Not a ThinkPad, but Lenovo's "house brand".
-    ThinkPad 130: Japanese version of the i1300
-    ThinkPad 2xx: Classic 10"-sub-notebook models.
-    ThinkPad 3xx: Classic mid-range models.
-    ThinkPad 5xx: Classic ultraportable models.
-    ThinkPad 6xx: Classic Slimline models.
-    ThinkPad 7xx: Classic high-end models.
-    ThinkPad 8xx: Classic PowerPC models.
-    ThinkPad i series: Classic budget models manufactured by Acer under license from IBM.
-    ThinkPad TransNote: Classic model.
-    PC110: Classic Palm-Top model.
-    ThinkPad Twist: Convertable Ultrabook
-    ThinkPad Helix: Detachable Business Ultrabook`
+    2.1 ThinkPad 200 series
+    2.2 ThinkPad 300 series
+    2.3 ThinkPad 500 series
+    2.4 ThinkPad 600 series
+    2.5 ThinkPad 700 series
+    2.6 ThinkPad 800 series
+    2.7 ThinkPad Transnote
+    2.8 ThinkPad A series
+    2.9 ThinkPad G series
+    2.10 ThinkPad i series
+    2.11 ThinkPad S series
+    2.12 ThinkPad Z series
+        2.12.1 ThinkPad Z60x Series
+        2.12.2 ThinkPad Z61x Series
+
+
 
 ## By Manufacturer
 Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvinar eleifend urna placerat suscipit.    
