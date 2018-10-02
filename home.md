@@ -14,7 +14,7 @@
 > * **Non-copyrighted**, [libre](https://en.wikipedia.org/wiki/Free_software) and **open source** software (or *information to obtain* the formentioned--) for optimizing ThinkPad machines, recovering non-working machines... drivers, BIOS ROMs, etc.
 > * Useful/collectively-valuable tutorials, guides, research tools, essays, etc., contributed by our community members under the [GFDL](https://www.gnu.org/licenses/fdl-1.3.txt)
 > * Pricing suggestions, shopping advice, and unbiased reviews/referrals to genuine/OEM/[NOS](https://en.wikipedia.org/wiki/New_old_stock) parts or machines vendors  
-> {.is-warning}
+{.is-warning}
 ## Terms of Use
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit ultricies sem sed lacinia. Phasellus id aliquet enim. Ut posuere felis viverra efficitur molestie. Suspendisse mollis tempor dolor, ut eleifend tellus. Sed porttitor lobortis sapien. Quisque molestie vestibulum ante in volutpat. Praesent dolor purus, dapibus ac ex quis, scelerisque imperdiet mauris. Duis id laoreet diam, ac volutpat massa. Integer aliquam at mi at pellentesque. Etiam rhoncus vulputate ligula nec dictum. Ut eu commodo quam. Curabitur rhoncus mollis rutrum. Cras consectetur varius lectus, ut venenatis nisl cursus tincidunt. Vestibulum cursus nisi id mattis congue. Duis eget aliquam lorem.
 
