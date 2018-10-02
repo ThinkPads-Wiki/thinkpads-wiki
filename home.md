@@ -1,7 +1,9 @@
 <!-- TITLE: Welcome to ThinkPads.Wiki -->
 <!-- SUBTITLE: A community-driven ThinkTank -->
 
-# ThinkPads.Wiki is an open source and collaborative knowledge archive for ThinkPad enthusiasts, published under the GNU Free Documentation License (GFDL)
+# About
+> ThinkPads.Wiki is an open source and collaborative knowledge archive for ThinkPad enthusiasts, published under the GNU Free Documentation License (GFDL)
+{.is-info}
 Our goal is to *document*, *update*, *discover*, and *preserve* useful, **non-copyrighted**, and contemporary information on any and all IBM or Lenovo ThinkPads.  
 
 We aim to share, and tastefully curate many types of relevant & accurate data for these machines; which includes, but is not limited to:  
