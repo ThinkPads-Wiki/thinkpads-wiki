@@ -10,3 +10,4 @@ We aim to share, and tastefully curate many types of relevant & accurate data fo
 * Historical, culturally significant, nostalgic, educational/instructional, and otherwise sufficiently-interesting forms of written/visual/aural **non-copyrighted** media files
 * **Non-copyrighted**, **free and open source** software (or *information to obtain* the formentioned--) for optimizing ThinkPad machines, recovering non-working machines... drivers, BIOS ROMs, etc.
 * Useful/collectively-valuable tutorials, guides, research tools, essays, etc., contributed by our community members under the **GFDL**
+* Pricing suggestions, shopping advice, and unbiased reviews/referrals to genuine/OEM/NOS parts or machines vendors
