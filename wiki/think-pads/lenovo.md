@@ -5,14 +5,14 @@
 Grouped by series. (temporary text,, needs furnishing)
 
 ## G Series
-> The [G series](../wiki/think-pads/lenovo/g-series)
+> The [G series](..//think-pads/lenovo/g-series)
 ## Z Series
-> The [Z series](../wiki/think-pads/lenovo/z-series)
+> The [Z series](..//think-pads/lenovo/z-series)
 ##  R Series
-> The [R series](../wiki/think-pads/lenovo/r-series)
+> The [R series](../think-pads/lenovo/r-series)
 ## T Series
-> The [T series](../wiki/think-pads/lenovo/t-series)
+> The [T series](../think-pads/lenovo/t-series)
 ## X Series
-> The [X series](../wiki/think-pads/lenovo/x-series)
+> The [X series](../think-pads/lenovo/x-series)
 ## E Series
-> The [E series](../wiki/think-pads/lenovo/e-series)
+> The [E series](..//think-pads/lenovo/e-series)
