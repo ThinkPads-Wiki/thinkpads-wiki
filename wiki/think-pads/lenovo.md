@@ -5,9 +5,10 @@
 Grouped by series. (temporary text,, needs furnishing)
 
 ### 200 series
+a small, memorable general description of this series, like a trait(s) which were unique to this series only
 
 ### 300 series
-
+repeat above
 ### 500 series
 
 ### 600 series
