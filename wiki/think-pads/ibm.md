@@ -25,17 +25,7 @@ Grouped by series. (temporary text,, needs furnishing)
 > The [G series](../wiki/think-pads/ibm/g-series)
 ## i Series
 > The [i series](../wiki/think-pads/ibm/i-series)
-## S Series
-> The [S series](../wiki/think-pads/ibm/s-series)
-## Z Series
-> The [Z series](../wiki/think-pads/ibm/z-series)
-
-
-> ThinkPad Z60x Series
-
-> Z61x Series
-
-##  R Series
+## R Series
 > The [R series](../wiki/think-pads/ibm/r-series)
 ## T Series
 > The [T series](../wiki/think-pads/ibm/t-series)
