@@ -11,7 +11,9 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvinar eleifend urna placerat suscipit.    
 
 ### IBM
-Placeholder description with redirect to [IBM ThinkPads](../wiki/think-pads/ibm) 
+> [IBM](../wiki/think-pads/ibm) rapidly started a world-wide phenomena and garnered mass praise from computing enthusiasts, consumers, media, and many more, with the introduction of their ThinkPad laptops starting in 1992. 
+
+> With their signature hallmarks, such as the ThinkPad's unmistakable "bento box" design, the minimalist and professional case-finishing/colourways, impeccable hardware quality (sometimes lauded as "feeling" near-indestructable at times!), and not least of all -- their industry-paving technologies -- it is no surprise that IBM has found unto itself **over 300 awards** for their ThinkPad brand, as well as appearing in the Museum of Modern Art in Manhattan, New York; and even outer space!
  
  ### Lenovo
 > [Lenovo](../wiki/think-pads/lenovo) acquired IBM's *ThinkPad* brand on May 1st, 2005. As part of their deal, select ThinkPads would continue to be sold under the *IBM* ThinkPad brand for some years afterward. 
