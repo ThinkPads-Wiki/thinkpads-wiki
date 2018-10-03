@@ -11,12 +11,12 @@ The organizations which have manufactured and given rise to one of the most well
 Choose which manufacturer you would like to browse, to find models neatly sorted by **series** type. Simply click on one of the hyperlinks provided below.   
 
 ### IBM
-> [IBM](../wiki/think-pads/ibm) rapidly started a world-wide phenomena and garnered mass praise from computing enthusiasts, consumers, media, and many more, with the introduction of their ThinkPad laptops starting in 1992. 
+> [IBM](../wiki/thinkpads/ibm) rapidly started a world-wide phenomena and garnered mass praise from computing enthusiasts, consumers, media, and many more, with the introduction of their ThinkPad laptops starting in 1992. 
 
 > With their signature hallmarks, such as the ThinkPad's unmistakable "bento box" design, its little red *TrackPoint*, the minimalist and professional case-finishing/colourways, impeccable hardware quality (sometimes lauded as "feeling" near-indestructable!), and not least of all -- their industry-paving technologies -- it is no surprise that IBM has found unto itself **over 300 awards** for their ThinkPad brand, as well as appearing in the Museum of Modern Art in Manhattan, New York; and even outer space!
  
  ### Lenovo
-> [Lenovo](../wiki/think-pads/lenovo) acquired IBM's *ThinkPad* brand on May 1st, 2005. As part of their deal, select ThinkPads would continue to be sold under the *IBM* ThinkPad brand for some years afterward. 
+> [Lenovo](../wiki/thinkpads/lenovo) acquired IBM's *ThinkPad* brand on May 1st, 2005. As part of their deal, select ThinkPads would continue to be sold under the *IBM* ThinkPad brand for some years afterward. 
 
 > This multi-billion US dollar negotiation (which also included a low-end server business, sold by IBM) has seemingly paid off, making the Chinese multinational-corporation a household name. By many, Lenovo is considered to be dedicated and similar in spirit to the original IBM vision -- in their loyalty and acknowledgement of the ThinkPad's roots -- and through innovative yet tradition-preserving design features & build-quality.
 
