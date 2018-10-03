@@ -2,8 +2,6 @@
 <!-- SUBTITLE: An index of IBM manufactured ThinkPads -->
 
 # IBM ThinkPads
-Grouped by series. (temporary text,, needs furnishing)
-
 ## 200 Series
 > The [200 series](../thinkpads/ibm/200-series) 
 ## 300 Series
