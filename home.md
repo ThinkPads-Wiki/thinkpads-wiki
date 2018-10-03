@@ -80,7 +80,7 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 
 
 
-## By Manufacturer
+## IBM & Lenovo
 Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvinar eleifend urna placerat suscipit.    
 
 ### IBM
