@@ -5,7 +5,7 @@
 Grouped by series. (temporary text,, needs furnishing)
 
 ## 200 Series
-> The [200 series](../think-pads/ibm/200-series)
+> The [200 series](../think-pads/ibm/200-series) 
 ## 300 Series
 > The [300 series](../think-pads/ibm/300-series)  was a value/mid-range series starting at the Intel 386SL-33, going all the way to the Intel Mobile Pentium III. They were a bit large and slower than the more full featured models but offered a less expensive ThinkPad. The successor of this series is the R series.
 ## 500 Series
