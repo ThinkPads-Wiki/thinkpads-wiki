@@ -2,7 +2,6 @@
 <!-- SUBTITLE: An index of Lenovo manufactured ThinkPads -->
 
 # Lenovo ThinkPads
-Grouped by series. (temporary text,, needs furnishing)
 
 ## G Series
 > The [G series](../thinkpads/lenovo/g-series)
