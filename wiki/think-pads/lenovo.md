@@ -5,9 +5,9 @@
 Grouped by series. (temporary text,, needs furnishing)
 
 ## G Series
-> The [G series](..//think-pads/lenovo/g-series)
+> The [G series](../think-pads/lenovo/g-series)
 ## Z Series
-> The [Z series](..//think-pads/lenovo/z-series)
+> The [Z series](../think-pads/lenovo/z-series)
 ##  R Series
 > The [R series](../think-pads/lenovo/r-series)
 ## T Series
@@ -15,4 +15,4 @@ Grouped by series. (temporary text,, needs furnishing)
 ## X Series
 > The [X series](../think-pads/lenovo/x-series)
 ## E Series
-> The [E series](..//think-pads/lenovo/e-series)
+> The [E series](../think-pads/lenovo/e-series)
