@@ -13,7 +13,7 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvinar eleifend urna placerat suscipit.    
 
 ### IBM
- Morbi facilisis risus blandit mauris sollicitudin, non scelerisque eros consequat. Nulla dapibus tellus magna, tempor porta nisi vestibulum id. Aliquam massa quam, sagittis ut sagittis rhoncus, tincidunt at libero. Curabitur sed lorem in orci pretium mattis. Pellentesque id lorem nec massa posuere interdum a ut neque. Suspendisse dignissim facilisis interdum.  
+Placeholder description with redirect to [IBM ThinkPads](../ThinkPads/IBM) 
  
  ### Lenovo
   Morbi facilisis risus blandit mauris sollicitudin, non scelerisque eros consequat. Nulla dapibus tellus magna, tempor porta nisi vestibulum id. Aliquam massa quam, sagittis ut sagittis rhoncus, tincidunt at libero. Curabitur sed lorem in orci pretium mattis. Pellentesque id lorem nec massa posuere interdum a ut neque. Suspendisse dignissim facilisis interdum. 
