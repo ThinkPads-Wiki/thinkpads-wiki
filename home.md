@@ -14,7 +14,7 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 Placeholder description with redirect to [IBM ThinkPads](../wiki/think-pads/ibm) 
  
  ### Lenovo
-[Lenovo](../wiki/think-pads/lenovo) acquired IBM's *ThinkPad* brand on May 1st, 2005. As part of their deal, select ThinkPads would continue to be sold under the *IBM* ThinkPad brand for some years afterward. 
+> [Lenovo](../wiki/think-pads/lenovo) acquired IBM's *ThinkPad* brand on May 1st, 2005. As part of their deal, select ThinkPads would continue to be sold under the *IBM* ThinkPad brand for some years afterward. 
 
 This multi-billion US dollar negotiation (which also included a low-end server business, sold by IBM) has seemingly paid off, making the Chinese multinational-corporation a household name. By many, Lenovo is considered to be dedicated and similar in spirit to the original IBM vision -- through their loyalty and acknowledgement of the ThinkPad's roots, through innovative yet tradition-preserving design features, and machine build-quality.
 
