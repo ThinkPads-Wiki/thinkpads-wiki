@@ -15,7 +15,7 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 Placeholder description with redirect to [IBM ThinkPads](../wiki/think-pads/ibm) 
  
  ### Lenovo
-Placeholder description with redirect to [LenovoThinkPads](../wiki/think-pads/lenovo)
+Placeholder description with redirect to [Lenovo ThinkPads](../wiki/think-pads/lenovo)
 
 
 
