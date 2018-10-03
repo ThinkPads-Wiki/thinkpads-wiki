@@ -7,6 +7,7 @@ Grouped by series. (temporary text,, needs furnishing)
 ### 200 series
 
 ### 300 series
+> The 300 series  was a value/economy series starting at the Intel 386SL-33, going all the way to the Intel Mobile Pentium III. They were a bit large and slower than the more full featured models but offered a less expensive ThinkPad. The successor of this series is the R series.
 
 ### 500 series
 
