@@ -9,7 +9,7 @@ Donec eget sagittis dolor. Quisque facilisis et diam congue cursus. Nunc pulvina
 
 ## IBM & Lenovo
 The organizations which have manufactured and given rise to one of the most well-known laptop computer brands in the world. The ***ThinkPad***.
-Choose which manufacturer you would like to browse, to find models neatly sorted by **series** type, by clicking on the hyperlinks provided below.   
+Choose which manufacturer you would like to browse, to find models neatly sorted by **series** type. Simply click on one of the hyperlinks provided below.   
 
 ### IBM
 > [IBM](../wiki/think-pads/ibm) rapidly started a world-wide phenomena and garnered mass praise from computing enthusiasts, consumers, media, and many more, with the introduction of their ThinkPad laptops starting in 1992. 
